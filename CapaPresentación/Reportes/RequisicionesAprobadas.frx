@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="02/10/2026 20:45:22" ReportInfo.Modified="02/10/2026 21:24:49" ReportInfo.CreatorVersion="2026.1.3.0">
+  <Dictionary>
+    <MsSqlDataConnection Name="Connection" ConnectionString="rijcmlqM7gJFg/iaLrqMhRfGy5lGso8TnyEaQ7+vd9gAIzirXJFn/iJrjFNdEmoA+OAsL+e0W3XyktS4n2ZyOYXVSpcZ5gevcqiHIjipxDp009uwWubIaYMDL1Ej/wS/zLp1cFdEvu0wmFKpyjAuArFtq2N0RA1AroS9M3LZjZJ4JF7tQQfRs+ajolUZNrTYPfdIsYYsdy/52PdYAD2FDHI0jj8kA==">
+      <TableDataSource Name="Table" Alias="RequisicionesAprobadas" DataType="System.Int32" Enabled="true" SelectCommand="SELECT V.RequisicionID, V.Referencia, V.Remitente, V.Aprobador, V.DepartamentoDestino, V.CodigoEvento, V.NombreEvento, V.FechaCreacion, V.FechaCaducidad, V.Observaciones&#13;&#10;FROM &quot;vw_RequisicionesAprobadas&quot; V&#13;&#10;">
+        <Column Name="RequisicionID" DataType="System.Int32"/>
+        <Column Name="Referencia" DataType="System.String"/>
+        <Column Name="Remitente" DataType="System.String"/>
+        <Column Name="Aprobador" DataType="System.String"/>
+        <Column Name="DepartamentoDestino" DataType="System.String"/>
+        <Column Name="CodigoEvento" DataType="System.Int32"/>
+        <Column Name="NombreEvento" DataType="System.String"/>
+        <Column Name="FechaCreacion" DataType="System.DateTime"/>
+        <Column Name="FechaCaducidad" DataType="System.DateTime"/>
+        <Column Name="Observaciones" DataType="System.String"/>
+      </TableDataSource>
+    </MsSqlDataConnection>
+  </Dictionary>
+  <ReportPage Name="Page1" PaperWidth="400" Watermark.Font="Arial, 60pt">
+    <ReportTitleBand Name="ReportTitle1" Width="1436.4" Height="37.8">
+      <TextObject Name="Text1" Left="557.55" Top="9.45" Width="567" Height="18.9" Text="REPORTE DE REQUISICIONES APROBADAS" Font="Arial, 10pt"/>
+    </ReportTitleBand>
+    <PageHeaderBand Name="PageHeader1" Top="41.36" Width="1436.4" Height="28.35">
+      <TextObject Name="Text2" Left="18.9" Top="9.45" Width="94.5" Height="18.9" Text="Requisicion" Font="Arial, 10pt"/>
+      <TextObject Name="Text3" Left="151.2" Top="9.45" Width="94.5" Height="18.9" Text="Referencia" Font="Arial, 10pt"/>
+      <TextObject Name="Text4" Left="264.6" Top="9.45" Width="94.5" Height="18.9" Text="Aprobador" Font="Arial, 10pt"/>
+      <TextObject Name="Text5" Left="378" Top="9.45" Width="75.6" Height="18.9" Text="Remitente" Font="Arial, 10pt"/>
+      <TextObject Name="Text9" Left="491.4" Top="9.45" Width="113.4" Height="18.9" Text="Departamento" Font="Arial, 10pt"/>
+      <TextObject Name="Text12" Left="633.15" Top="9.45" Width="75.6" Height="18.9" Text="Evento" Font="Arial, 10pt"/>
+      <TextObject Name="Text13" Left="727.65" Top="9.45" Width="132.3" Height="18.9" Text="Fecha de Creacion" Font="Arial, 10pt"/>
+      <TextObject Name="Text14" Left="878.85" Top="9.45" Width="113.4" Height="18.9" Text="Fecha de Límite" Font="Arial, 10pt"/>
+      <TextObject Name="Text15" Left="1011.15" Top="9.45" Width="113.4" Height="18.9" Text="Observaciones" Font="Arial, 10pt"/>
+    </PageHeaderBand>
+    <DataBand Name="Data1" Top="73.26" Width="1436.4" Height="85.05" Fill="Hatch" Fill.ForeColor="Black" Fill.BackColor="White" Fill.Style="Divot" DataSource="Table">
+      <TextObject Name="Text8" Left="18.9" Top="9.45" Width="94.5" Height="56.7" Text="[RequisicionesAprobadas.RequisicionID]" Font="Arial, 10pt"/>
+      <TextObject Name="Text11" Left="151.2" Top="9.45" Width="94.5" Height="56.7" Text="[RequisicionesAprobadas.Referencia]" Font="Arial, 10pt"/>
+      <TextObject Name="Text16" Left="264.6" Top="9.45" Width="94.5" Height="56.7" Text="[RequisicionesAprobadas.Aprobador]" Font="Arial, 10pt"/>
+      <TextObject Name="Text17" Left="378" Top="9.45" Width="75.6" Height="56.7" Text="[RequisicionesAprobadas.Remitente]" Font="Arial, 10pt"/>
+      <TextObject Name="Text18" Left="491.4" Top="9.45" Width="113.4" Height="56.7" Text="[RequisicionesAprobadas.DepartamentoDestino]" Font="Arial, 10pt"/>
+      <TextObject Name="Text20" Left="633.15" Top="9.45" Width="75.6" Height="56.7" Text="[RequisicionesAprobadas.NombreEvento]" Font="Arial, 10pt"/>
+      <TextObject Name="Text21" Left="727.65" Top="9.45" Width="132.3" Height="56.7" Text="[RequisicionesAprobadas.FechaCreacion]" Format="Date" Format.Format="MMMM dd, yyyy" Font="Arial, 10pt"/>
+      <TextObject Name="Text22" Left="878.85" Top="9.45" Width="113.4" Height="47.25" Text="[RequisicionesAprobadas.FechaCaducidad]" Format="Date" Format.Format="MMMM dd, yyyy" Font="Arial, 10pt"/>
+      <TextObject Name="Text23" Left="1011.15" Top="9.45" Width="113.4" Height="47.25" Text="[RequisicionesAprobadas.Observaciones]" Font="Arial, 10pt"/>
+    </DataBand>
+    <PageFooterBand Name="PageFooter1" Top="161.87" Width="1436.4" Height="37.8" Fill="Hatch" Fill.ForeColor="Black" Fill.BackColor="White" Fill.Style="BackwardDiagonal"/>
+  </ReportPage>
+  <ReportPage Name="Page2" Watermark.Font="Arial, 60pt">
+    <ReportTitleBand Name="ReportTitle2" Width="718.2" Height="37.8"/>
+    <PageHeaderBand Name="PageHeader2" Top="40.47" Width="718.2" Height="28.35"/>
+    <DataBand Name="Data2" Top="71.48" Width="718.2" Height="75.6"/>
+    <PageFooterBand Name="PageFooter2" Top="149.75" Width="718.2" Height="18.9"/>
+  </ReportPage>
+</Report>

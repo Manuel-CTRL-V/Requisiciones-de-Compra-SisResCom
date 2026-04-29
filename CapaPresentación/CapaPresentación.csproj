@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FontAwesome.Sharp" Version="6.6.0" />
+    <PackageReference Include="QuestPDF" Version="2025.12.4" />
+    <PackageReference Include="ReportViewerCore.WinForms" Version="15.1.33" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CapaEntidades\CapaEntidades.csproj" />
+    <ProjectReference Include="..\CapaInfraestructura\CapaInfraestructura.csproj" />
+    <ProjectReference Include="..\CapaNegocio\CapaNegocio.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Utilidades\" />
+  </ItemGroup>
+
+</Project>

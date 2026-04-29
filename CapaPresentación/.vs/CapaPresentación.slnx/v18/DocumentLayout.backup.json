@@ -1,0 +1,761 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|solutionrelative:formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|c:\\users\\user\\desktop\\practicas arquitectura soft\\proyecto 1 - arq soft - requisicion de compra - 1.0.1\\capapresentaci\u00F3n\\formreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|solutionrelative:formreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\formreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|solutionrelative:formreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|c:\\users\\user\\desktop\\practicas arquitectura soft\\proyecto 1 - arq soft - requisicion de compra - 1.0.1\\capapresentaci\u00F3n\\formeditarrequisicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|solutionrelative:formeditarrequisicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\formeditarrequisicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|solutionrelative:formeditarrequisicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|c:\\users\\user\\desktop\\practicas arquitectura soft\\proyecto 1 - arq soft - requisicion de compra - 1.0.1\\capapresentaci\u00F3n\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|solutionrelative:formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|c:\\users\\user\\desktop\\practicas arquitectura soft\\proyecto 1 - arq soft - requisicion de compra - 1.0.1\\capapresentaci\u00F3n\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|solutionrelative:formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|solutionrelative:formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|c:\\users\\user\\desktop\\practicas arquitectura soft\\proyecto 1 - arq soft - requisicion de compra - 1.0.1\\capapresentaci\u00F3n\\capapresentaci\u00F3n.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|solutionrelative:capapresentaci\u00F3n.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|c:\\users\\user\\desktop\\practicas arquitectura soft\\proyecto 1 - arq soft - requisicion de compra - 1.0.1\\capapresentaci\u00F3n\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|solutionrelative:report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\formadmrequisiciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|solutionrelative:formadmrequisiciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\formnuevarequisicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|solutionrelative:formnuevarequisicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|c:\\users\\user\\desktop\\practicas arquitectura soft\\proyecto 1 - arq soft - requisicion de compra - 1.0.1\\capapresentaci\u00F3n\\formregistroempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|solutionrelative:formregistroempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\formregistroempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|solutionrelative:formregistroempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|c:\\users\\user\\desktop\\practicas arquitectura soft\\proyecto 1 - arq soft - requisicion de compra - 1.0.1\\capapresentaci\u00F3n\\formbuscarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|solutionrelative:formbuscarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\formbuscarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|solutionrelative:formbuscarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|c:\\users\\user\\desktop\\practicas arquitectura soft\\proyecto 1 - arq soft - requisicion de compra - 1.0.1\\capapresentaci\u00F3n\\formnuevarequisicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|solutionrelative:formnuevarequisicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\formmisrequisiciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|solutionrelative:formmisrequisiciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|c:\\users\\user\\desktop\\practicas arquitectura soft\\proyecto 1 - arq soft - requisicion de compra - 1.0.1\\capapresentaci\u00F3n\\formadmrequisiciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|solutionrelative:formadmrequisiciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|c:\\users\\user\\desktop\\practicas arquitectura soft\\proyecto 1 - arq soft - requisicion de compra - 1.0.1\\capapresentaci\u00F3n\\formeditarrequisicion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|solutionrelative:formeditarrequisicion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|c:\\users\\user\\desktop\\practicas arquitectura soft\\proyecto 1 - arq soft - requisicion de compra - 1.0.1\\capapresentaci\u00F3n\\formnuevarequisicion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|solutionrelative:formnuevarequisicion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|c:\\users\\user\\desktop\\practicas arquitectura soft\\proyecto 1 - arq soft - requisicion de compra - 1.0.1\\capapresentaci\u00F3n\\formmisrequisiciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|solutionrelative:formmisrequisiciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\10.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|c:\\users\\user\\desktop\\practicas arquitectura soft\\proyecto 1 - arq soft - requisicion de compra - 1.0.1\\capapresentaci\u00F3n\\ienviardatosarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A7DDB5-70A0-16AC-0945-2A708A85A260}|CapaPresentaci\u00F3n.csproj|solutionrelative:ienviardatosarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaInfraestructura\\DataSetRequisicionesAprobadas.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaNegocio\\ArticuloServicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\CategoriaDatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\AccesoDatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\CapaDatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaNegocio\\RequisicionServicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\EstadoCreadaState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\RequisicionDatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\EstadoEnRevisionState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\IEstadoRequisicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\EstadoRechazadaState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\EstadoCanceladaState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\EstadoAprobadaState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\EmpleadoDatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\ArticuloDatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\CapaEntidades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaInfraestructura\\CapaInfraestructura.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaInfraestructura\\DataSetRequisicionesAprobadas.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\DataSetRequisicionesAprobadas.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\DataSetRequisicionesAprobadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\DataSetRequisicionesAprobadas.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormEditarRequisicion.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormEditarRequisicion.cs",
+              "RelativeDocumentMoniker": "FormEditarRequisicion.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormEditarRequisicion.cs",
+              "RelativeToolTip": "FormEditarRequisicion.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAAAMgAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T21:15:31.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormReporte.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormReporte.cs",
+              "RelativeDocumentMoniker": "FormReporte.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormReporte.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormReporte.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T14:40:53.7Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormReporte.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormReporte.cs",
+              "RelativeDocumentMoniker": "FormReporte.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormReporte.cs",
+              "RelativeToolTip": "FormReporte.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwEMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T14:41:47.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormMenu.cs",
+              "RelativeDocumentMoniker": "FormMenu.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T19:47:09.517Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DataSetRequisicionesAprobadas.xsd",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaInfraestructura\\DataSetRequisicionesAprobadas.xsd",
+              "RelativeDocumentMoniker": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaInfraestructura\\DataSetRequisicionesAprobadas.xsd",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaInfraestructura\\DataSetRequisicionesAprobadas.xsd",
+              "RelativeToolTip": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaInfraestructura\\DataSetRequisicionesAprobadas.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2026-02-16T03:05:02.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMenu.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormMenu.cs",
+              "RelativeDocumentMoniker": "FormMenu.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormMenu.cs",
+              "RelativeToolTip": "FormMenu.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T19:47:12.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Report1.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\Report1.rdlc",
+              "RelativeDocumentMoniker": "Report1.rdlc",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\Report1.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "Report1.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2026-02-12T18:32:42.877Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormLogin.cs",
+              "RelativeDocumentMoniker": "FormLogin.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormLogin.cs",
+              "RelativeToolTip": "FormLogin.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T19:46:46.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CapaPresentaci\u00F3n.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\CapaPresentaci\u00F3n.csproj",
+              "RelativeDocumentMoniker": "CapaPresentaci\u00F3n.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\CapaPresentaci\u00F3n.csproj",
+              "RelativeToolTip": "CapaPresentaci\u00F3n.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-12T19:46:23.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormRegistroEmpleados.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormRegistroEmpleados.cs",
+              "RelativeDocumentMoniker": "FormRegistroEmpleados.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormRegistroEmpleados.cs",
+              "RelativeToolTip": "FormRegistroEmpleados.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAHEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T18:07:36.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormBuscarProducto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormBuscarProducto.cs",
+              "RelativeDocumentMoniker": "FormBuscarProducto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormBuscarProducto.cs",
+              "RelativeToolTip": "FormBuscarProducto.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAIA0wGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T17:33:48.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormNuevaRequisicion.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormNuevaRequisicion.cs",
+              "RelativeDocumentMoniker": "FormNuevaRequisicion.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormNuevaRequisicion.cs",
+              "RelativeToolTip": "FormNuevaRequisicion.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAmwKkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T16:06:08.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ArticuloServicio.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaNegocio\\ArticuloServicio.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaNegocio\\ArticuloServicio.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaNegocio\\ArticuloServicio.cs",
+              "RelativeToolTip": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaNegocio\\ArticuloServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T17:32:51.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CategoriaDatos.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\CategoriaDatos.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\CategoriaDatos.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\CategoriaDatos.cs",
+              "RelativeToolTip": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\CategoriaDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T17:32:25.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\AccesoDatos.cs",
+              "RelativeToolTip": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\AccesoDatos.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T17:31:25.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormAdmRequisiciones.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormAdmRequisiciones.cs",
+              "RelativeDocumentMoniker": "FormAdmRequisiciones.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormAdmRequisiciones.cs",
+              "RelativeToolTip": "FormAdmRequisiciones.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAC0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T15:50:20.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CapaDatos.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\CapaDatos.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\CapaDatos.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\CapaDatos.csproj",
+              "RelativeToolTip": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\CapaDatos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-12T18:33:43.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormEditarRequisicion.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormEditarRequisicion.Designer.cs",
+              "RelativeDocumentMoniker": "FormEditarRequisicion.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormEditarRequisicion.Designer.cs",
+              "RelativeToolTip": "FormEditarRequisicion.Designer.cs",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAAAPgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T16:45:31.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormNuevaRequisicion.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormNuevaRequisicion.Designer.cs",
+              "RelativeDocumentMoniker": "FormNuevaRequisicion.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormNuevaRequisicion.Designer.cs",
+              "RelativeToolTip": "FormNuevaRequisicion.Designer.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAAAPQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T16:39:40.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormMisRequisiciones.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormMisRequisiciones.cs",
+              "RelativeDocumentMoniker": "FormMisRequisiciones.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormMisRequisiciones.cs",
+              "RelativeToolTip": "FormMisRequisiciones.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAIA0wDgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T16:16:27.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RequisicionServicio.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaNegocio\\RequisicionServicio.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaNegocio\\RequisicionServicio.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaNegocio\\RequisicionServicio.cs",
+              "RelativeToolTip": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaNegocio\\RequisicionServicio.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T15:49:49.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EstadoCreadaState.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\EstadoCreadaState.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\EstadoCreadaState.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\EstadoCreadaState.cs",
+              "RelativeToolTip": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\EstadoCreadaState.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T15:52:07.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RequisicionDatos.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\RequisicionDatos.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\RequisicionDatos.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\RequisicionDatos.cs",
+              "RelativeToolTip": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\RequisicionDatos.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAMwLcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T15:47:59.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EstadoEnRevisionState.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\EstadoEnRevisionState.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\EstadoEnRevisionState.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\EstadoEnRevisionState.cs",
+              "RelativeToolTip": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\EstadoEnRevisionState.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T15:52:15.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IEstadoRequisicion.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\IEstadoRequisicion.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\IEstadoRequisicion.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\IEstadoRequisicion.cs",
+              "RelativeToolTip": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\IEstadoRequisicion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T15:51:38.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EstadoRechazadaState.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\EstadoRechazadaState.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\EstadoRechazadaState.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\EstadoRechazadaState.cs",
+              "RelativeToolTip": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\EstadoRechazadaState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T15:53:27.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EstadoCanceladaState.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\EstadoCanceladaState.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\EstadoCanceladaState.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\EstadoCanceladaState.cs",
+              "RelativeToolTip": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\EstadoCanceladaState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T15:53:16.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EstadoAprobadaState.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\EstadoAprobadaState.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\EstadoAprobadaState.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\EstadoAprobadaState.cs",
+              "RelativeToolTip": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\StatesRequisicion\\EstadoAprobadaState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T15:53:11.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EmpleadoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\EmpleadoDatos.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\EmpleadoDatos.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\EmpleadoDatos.cs",
+              "RelativeToolTip": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\EmpleadoDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T13:11:02.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ArticuloDatos.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\ArticuloDatos.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\ArticuloDatos.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\ArticuloDatos.cs",
+              "RelativeToolTip": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\ArticuloDatos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAACB1PQAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T13:10:38.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CapaEntidades.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\CapaEntidades.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\CapaEntidades.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\CapaEntidades.csproj",
+              "RelativeToolTip": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaEntidades\\CapaEntidades.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-12T19:01:49.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CapaInfraestructura.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaInfraestructura\\CapaInfraestructura.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaInfraestructura\\CapaInfraestructura.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaInfraestructura\\CapaInfraestructura.csproj",
+              "RelativeToolTip": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaInfraestructura\\CapaInfraestructura.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-12T19:01:45.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\10.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAQwAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-02-12T19:02:08.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAFEHAAAAAAAAAAAtwGAHAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-02-12T19:01:25.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DataSetRequisicionesAprobadas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaInfraestructura\\DataSetRequisicionesAprobadas.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaInfraestructura\\DataSetRequisicionesAprobadas.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaInfraestructura\\DataSetRequisicionesAprobadas.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaInfraestructura\\DataSetRequisicionesAprobadas.Designer.cs",
+              "ViewState": "AgIAAJwDAAAAAAAAAAAmwKoDAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:56:46.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IEnviarDatosArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\IEnviarDatosArticulo.cs",
+              "RelativeDocumentMoniker": "IEnviarDatosArticulo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\IEnviarDatosArticulo.cs",
+              "RelativeToolTip": "IEnviarDatosArticulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:51:48.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DataSetRequisicionesAprobadas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\DataSetRequisicionesAprobadas.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\DataSetRequisicionesAprobadas.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\DataSetRequisicionesAprobadas.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\DataSetRequisicionesAprobadas.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:42:39.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DataSetRequisicionesAprobadas.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\DataSetRequisicionesAprobadas.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\DataSetRequisicionesAprobadas.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\DataSetRequisicionesAprobadas.cs",
+              "RelativeToolTip": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\DataSetRequisicionesAprobadas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:40:18.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DataSetRequisicionesAprobadas.xsd",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\DataSetRequisicionesAprobadas.xsd",
+              "RelativeDocumentMoniker": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\DataSetRequisicionesAprobadas.xsd",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\DataSetRequisicionesAprobadas.xsd",
+              "RelativeToolTip": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - copia\\CapaDatos\\DataSetRequisicionesAprobadas.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2026-02-12T18:40:14.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormEditarRequisicion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormEditarRequisicion.cs",
+              "RelativeDocumentMoniker": "FormEditarRequisicion.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormEditarRequisicion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormEditarRequisicion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T19:58:00.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormLogin.cs",
+              "RelativeDocumentMoniker": "FormLogin.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormLogin.cs [Design]",
+              "RelativeToolTip": "FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T19:46:29.204Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormAdmRequisiciones.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormAdmRequisiciones.cs",
+              "RelativeDocumentMoniker": "FormAdmRequisiciones.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormAdmRequisiciones.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormAdmRequisiciones.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T15:53:51.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormNuevaRequisicion.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormNuevaRequisicion.cs",
+              "RelativeDocumentMoniker": "FormNuevaRequisicion.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormNuevaRequisicion.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormNuevaRequisicion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T16:06:05.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormRegistroEmpleados.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormRegistroEmpleados.cs",
+              "RelativeDocumentMoniker": "FormRegistroEmpleados.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormRegistroEmpleados.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormRegistroEmpleados.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T21:09:29.372Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormBuscarProducto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormBuscarProducto.cs",
+              "RelativeDocumentMoniker": "FormBuscarProducto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormBuscarProducto.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormBuscarProducto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T16:00:09.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormMisRequisiciones.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practicas Arquitectura Soft\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormMisRequisiciones.cs",
+              "RelativeDocumentMoniker": "FormMisRequisiciones.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormMisRequisiciones.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Proyecto 1 - Arq Soft - Requisicion de Compra - 1.0.1\\CapaPresentaci\u00F3n\\FormMisRequisiciones.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T16:16:25.915Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
